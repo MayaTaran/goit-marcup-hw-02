@@ -124,7 +124,7 @@ a {
   letter-spacing: 0.32px;
 }
 .team {
-  background: var(--CLOUD, #f4f4fd);
+  background-color: #f4f4fd;
 }
 .title-second {
   color: #2e2f42;
